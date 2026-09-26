@@ -1,0 +1,5 @@
+com.bitwarden.desktop
+com.spotify.Client
+io.dbeaver.DBeaverCommunity
+md.obsidian.Obsidian
+rest.insomnia.Insomnia
