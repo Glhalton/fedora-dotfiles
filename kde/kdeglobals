@@ -106,6 +106,7 @@ UseSystemBell=true
 Theme=Papirus-Dark
 
 [KDE]
+AnimationDurationFactor=0.75
 LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
 frameContrast=0.2
@@ -125,7 +126,7 @@ Sort directories first=true
 Sort hidden files last=false
 Sort reversed=false
 Speedbar Width=146
-View Style=DetailTree
+View Style=Simple
 
 [WM]
 activeBackground=20,26,33,216
